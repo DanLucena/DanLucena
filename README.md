@@ -1,8 +1,8 @@
 ## Ola! Meu nome é Daniel e esse é meu git !
  <div>
   <a href="https://github.com/DanLucena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanLucena&show_icons=true&theme=Argonaut&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLucena&layout=compact&langs_count=7&theme=Argonaut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanLucena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLucena&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
