@@ -5,7 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanLucena&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<summary><b>🧑🏻‍💻 Languages :</b></summary>
 </br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
