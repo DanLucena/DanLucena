@@ -1,4 +1,9 @@
-## Ola! Meu nome é Daniel e esse é meu git !
+<h3 align="center"><samp>&gt; Hi there, I'm Daniel Lucena </samp></h3>
+
+<p align="center"> <samp>「 I'm a 21 years old fullstack developer exploring the possibilities of front-end development. 」</samp> </p>
+
+- 🔭 I’m currently trainee at [Prevision](https://www.prevision.com.br/)
+
  <div>
   <a href="https://github.com/DanLucena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanLucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,7 +12,6 @@
 
 </br>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
