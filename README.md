@@ -12,7 +12,7 @@
  <br/>
 &nbsp; &gt; 👨‍🎓 <samp>Studying computer science at IESB.</samp>
  <br/>
-&nbsp; &gt; 👑 <samp>Studying computer science at IESB.</samp>
+&nbsp; &gt; 👑 <samp>Why be a king when you can be an emperor.</samp>
 
 <br/>
 <br/>
