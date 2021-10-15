@@ -29,11 +29,14 @@
 </a>
 </p>
 
+---
 
-<h3 align="center"><samp> ⚡ Techs </samp></h3>
-<p align="center"> <samp>「 Here you can see some techs that I'm studying and utilizing nowadays 」</samp> </p>
+<img src="./tec.gif" height="200px" align="right" />
+<h3 align="left"><samp> ⚡ Techs </samp></h3>
+<p align="left"> <samp>「 Here you can see some techs that I'm studying and utilizing nowadays 」</samp> </p>
 
-<summary><b>💻 Languages :</b></summary>
+
+<b>💻 Languages :</b>
 </br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +46,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<summary><b>📚 Libraries & Frameworks :</b></summary>
+<b>📚 Libraries & Frameworks :</b>
 </br>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -55,7 +58,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<summary><b>🔧 Some Tools :</b></summary>
+<b>🔧 Some Tools :</b>
 </br>
 	
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,11 +67,11 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
- </br>
+ ----
 <div>
   <a href="https://github.com/DanLucena">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanLucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-	  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DanLucena&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)" />
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DanLucena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=DanLucena&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)" />
    </a>
 </div>
 
