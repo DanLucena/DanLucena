@@ -6,7 +6,7 @@
 
 <h4 align="left"><samp>&gt; About Me</samp></h4>
  
-&nbsp; &gt; 🔭 <samp>I’m currently trainee at [Prevision](https://www.prevision.com.br/).</samp>
+&nbsp; &gt; 🔭 <samp>I’m currently Dev.Junior at [Prevision](https://www.prevision.com.br/).</samp>
  <br/>
 &nbsp; &gt; 😎 <samp>Learning Rails and Vue. </samp>
  <br/>
