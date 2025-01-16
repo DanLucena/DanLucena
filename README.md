@@ -1,4 +1,4 @@
-<h3 align="center"> <samp>「 I'm a 22 years old fullstack developer. 」</samp> </h3>
+<h3 align="center"> <samp>「 I'm a fullstack developer. 」</samp> </h3>
 
 <br/>
 
