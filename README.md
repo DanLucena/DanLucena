@@ -12,7 +12,7 @@
  <br/>
 &nbsp; &gt; 👨‍🎓 <samp>Bachelor computer science at IESB.</samp>
  <br/>
-&nbsp; &gt; 👑 <samp>Why be a king when you can be an emperor.</samp>
+
 
 <br/>
 <br/>
@@ -28,7 +28,6 @@
 
 ---
 
-<img src="./tec.gif" height="200px" align="right" />
 <h3 align="left"><samp> ⚡ Techs </samp></h3>
 <p align="left"> <samp>「 Here you can see some techs that I'm studying and utilizing nowadays 」</samp> </p>
 
@@ -72,7 +71,6 @@
    </a>
 </div>
 
-<img src="./zorro.gif"  />
 
 
 
