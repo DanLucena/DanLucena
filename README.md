@@ -8,9 +8,9 @@
  
 &nbsp; &gt; 🔭 <samp>I’m currently a Mid Level Software Developer at [Prevision](https://www.prevision.com.br/).</samp>
  <br/>
-&nbsp; &gt; 😎 <samp>Learning Rails and Vue. </samp>
+&nbsp; &gt; 😎 <samp>Rails and Vue developer. </samp>
  <br/>
-&nbsp; &gt; 👨‍🎓 <samp>Studying computer science at IESB.</samp>
+&nbsp; &gt; 👨‍🎓 <samp>Bachelor computer science at IESB.</samp>
  <br/>
 &nbsp; &gt; 👑 <samp>Why be a king when you can be an emperor.</samp>
 
@@ -23,9 +23,6 @@
 </a>
 <a href="mailto:danlucas1711@gmail.com">
 	<img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://discord.com/app" target="_blank">
-  <img src="https://img.shields.io/badge/O IMPERADOR%236483-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
